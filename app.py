@@ -1,8 +1,10 @@
 import streamlit as st
 import preprocessor, helper
 
+# Sidebar using streamlit
 st.sidebar.title("Whatsapp Chat Analyser")
 
+# Variable that read the files
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
