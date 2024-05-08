@@ -4,14 +4,14 @@ The WhatsApp Chat Analyzer is a Python-based tool designed to analyze WhatsApp c
 
 ## Features
 
-**Message Frequency**
+**Message Frequency**-
 Visualize message frequency over time to identify communication trends.
 
-**Active Participants**
+**Active Participants**-
 Determine the most active chat participants based on message count.
 
-**Popular Emojis**
+**Popular Emojis**-
 Analyze emoji usage and identify frequently used emojis.
 
-**Word Clouds**
+**Word Clouds**-
 Generate visual representations of common words used in the chat.
